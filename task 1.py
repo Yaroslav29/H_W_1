@@ -1,0 +1,6 @@
+a = int(input("вкажіть перше число:"))
+b = int(input("вкажіть друге число:"))
+print(a, "+", b, "=", a+b)
+print(a, "-", b, "=", a-b)
+print(a, "*", b, "=", a*b)
+print(a, '/', b, "=", a/b)
